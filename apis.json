@@ -1,0 +1,75 @@
+{
+    "name": "PeerIndex",
+    "description": "Our technology helps the world\u2019s biggest brands listen to their customers and understand consumer trends.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/634-peerindex.jpg",
+    "tags": [
+        "api united kingdom",
+        "have api",
+        "social",
+        "social influence",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/peerindex\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PeerIndex",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/634-peerindex.jpg",
+            "humanURL": "http:\/\/dev.peerindex.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/peerindex-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.peerindex.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.peerindex.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/peerindex"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/brandwatch"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@brandwatch.com"
+        },
+        {
+            "type": "Email",
+            "url": "legalnotices@brandwatch.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/peerindex"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/peerindex"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Brandwatch"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dev.peerindex.com\/"
+        }
+    ]
+}
